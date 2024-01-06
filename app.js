@@ -3,7 +3,7 @@ let userSeq = [];
 
 let started = false;
 let level = 0;
-let highestScore = 0; //********************** */
+let highestScore = 0;
 let btns = ["red", "green", "yellow", "blue"];
 
 let h2 = document.querySelector("h2");

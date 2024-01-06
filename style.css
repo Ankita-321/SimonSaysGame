@@ -31,3 +31,10 @@ body{
 .userFlash{
     background-color: green;
 }
+
+.desc{
+    display: flex;
+    flex-direction: center;
+    text-align: center;
+    padding: 0 200px 0 200px;
+}
